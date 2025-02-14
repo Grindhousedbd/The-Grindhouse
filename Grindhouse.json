@@ -1,6 +1,6 @@
 {
 	"Name": "Grindhouse",
-	"Version": 1736041204,
+	"Version": 1739566554,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -82,6 +82,7 @@
 				"171",
 				"172",
 				"175",
+				"183",
 				"243",
 				"264",
 				"256",
@@ -2865,7 +2866,9 @@
 			"SurvivorBalanceTiers": [
 				0,
 				2,
-				3
+				3,
+				4,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -2873,7 +2876,9 @@
 				"186"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"53"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
