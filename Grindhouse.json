@@ -1,6 +1,6 @@
 {
 	"Name": "Grindhouse",
-	"Version": 1740551606,
+	"Version": 1742025407,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -422,8 +422,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				9,
-				0
+				0,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -508,8 +508,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				9,
-				0
+				0,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1236,8 +1236,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				9,
-				0
+				0,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1849,8 +1849,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				9,
-				0
+				0,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
