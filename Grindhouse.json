@@ -1,6 +1,6 @@
 {
 	"Name": "Grindhouse",
-	"Version": 1751400338,
+	"Version": 1751504339,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -67,8 +67,8 @@
 			],
 			"SurvivorComboPerkBans": [
 				[
-					"21",
-					"44"
+					"246",
+					"101"
 				],
 				[
 					"58",
@@ -79,8 +79,8 @@
 					"76"
 				],
 				[
-					"246",
-					"101"
+					"112",
+					"124"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -155,6 +155,8 @@
 				"36",
 				"38",
 				"39",
+				"279",
+				"280",
 				"57",
 				"69",
 				"73",
@@ -163,7 +165,6 @@
 				"80",
 				"102",
 				"109",
-				"253",
 				"121",
 				"126",
 				"127",
@@ -182,13 +183,12 @@
 			"Name": "Slasher (B)",
 			"SurvivorIndvPerkBans": [
 				"1",
-				"273",
-				"261",
 				"54",
 				"61",
 				"65",
 				"92",
-				"112"
+				"112",
+				"253"
 			],
 			"KillerIndvPerkBans": [
 				"150"
@@ -200,7 +200,9 @@
 			"Name": "Butcher (C)",
 			"SurvivorIndvPerkBans": [
 				"8",
+				"273",
 				"44",
+				"261",
 				"50",
 				"70",
 				"95",
@@ -1203,7 +1205,6 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"157",
 				"186"
 			],
 			"KillerComboPerkBans": [],
